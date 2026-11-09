@@ -1,0 +1,4 @@
+venv/
+__pycache__/
+productos.db
+node_modules/
